@@ -2,7 +2,6 @@
 
 # The CITY table is described as follows:
 
-CITY.jpg
 
 SELECT * From CITY
 Where CountryCode = "USA" AND POPULATION >100000;
